@@ -1,4 +1,4 @@
 -	Nedelchev86: takes the role of Questioner.
--	Member #2: takes the role of Offerer.
+-	Mindov1988: takes the role of Offerer.
 -	Member #3: takes the role of Admin.
 -	Polishko: takes the role of Verifier.
